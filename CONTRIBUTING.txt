@@ -1,2 +1,3 @@
+Version 1.1
 This git directory is used for git training lessons.
 This is README.txt plus additonal data.
